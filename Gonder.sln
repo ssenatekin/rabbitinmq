@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gonder", "Gonder\Gonder.csproj", "{3400EC40-E10D-488C-B699-2F4A867D2440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesajAl", "MesajAl\MesajAl.csproj", "{0A208647-0077-4E88-88D6-7A28897A9155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3400EC40-E10D-488C-B699-2F4A867D2440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3400EC40-E10D-488C-B699-2F4A867D2440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3400EC40-E10D-488C-B699-2F4A867D2440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3400EC40-E10D-488C-B699-2F4A867D2440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A208647-0077-4E88-88D6-7A28897A9155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A208647-0077-4E88-88D6-7A28897A9155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A208647-0077-4E88-88D6-7A28897A9155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A208647-0077-4E88-88D6-7A28897A9155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98920691-02BE-4509-9910-740AAD2EE3EF}
+	EndGlobalSection
+EndGlobal
